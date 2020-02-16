@@ -30,20 +30,20 @@ export default class Contact extends React.Component {
                     <label>Don't fill this out if you're human: <input name="bot-field" /></label>
                   </p>
                   <p className="form-row">
-                    <label className="form-label">Name *</label>
-                    <input type="text" name="name" placeholder="Your name..." className="form-input"/>
+                    <label className="form-label">Nome *</label>
+                    <input type="text" name="nome" placeholder="Seu nome..." className="form-input"/>
                   </p>
                   <p className="form-row">
-                    <label className="form-label">Email *</label>
-                    <input type="email" name="email" placeholder="Your email address..." className="form-input"/>
+                    <label className="form-label">E-mail *</label>
+                    <input type="email" name="email" placeholder="Seu E-mail..." className="form-input"/>
                   </p>
                   <p className="form-row">
-                    <label className="form-label">Message *</label>
-                    <textarea name="message" placeholder="Your message..." className="form-textarea" rows="7" />
+                    <label className="form-label">Mensagem *</label>
+                    <textarea name="message" placeholder="Escreva sua mensagem aqui..." className="form-textarea" rows="7" />
                   </p>
                   <input type="hidden" name="form-name" value="contactForm" />
                   <p className="form-row">
-                    <button type="submit" className="button">Send Message</button>
+                    <button type="submit" className="button">Enviar mensagem</button>
                   </p>
                 </form>
               </div>
