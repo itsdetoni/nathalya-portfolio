@@ -25,12 +25,12 @@ sections:
     title: Sobre mim
     type: contentblock
   - actions:
-      - label: View Blog
+      - label: Visitar Blog
         url: blog/index.html
     component: PostsBlock
     num_posts_displayed: 4
     section_id: recent-posts
-    title: Recent Posts
+    title: Últimos posts
     type: postsblock
 menus:
   main:
