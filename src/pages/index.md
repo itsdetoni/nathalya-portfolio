@@ -10,7 +10,7 @@ sections:
     type: heroblock
   - actions:
       - label: Portfólio
-        url: /about
+        url: /portfolio
     component: ContentBlock
     content: >-
       Sou formada em Relações Públicas pela UNIFAAT. Atualmente trabalho em uma
@@ -38,4 +38,3 @@ menus:
     weight: 1
 template: home
 ---
-
