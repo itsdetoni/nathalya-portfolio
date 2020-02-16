@@ -4,7 +4,7 @@ subtitle: Abaixo alguns dos projetos que já trabalhei.
 img_path: /images/test.jpg
 menus:
   main:
-    title: Projeto 1
+    title: Portfólio
     weight: 4
 template: page
 ---
