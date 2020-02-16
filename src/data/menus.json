@@ -1,1 +1,9 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "xuxa",
+      "title": "Teste",
+      "url": "xuxa.com.br"
+    }
+  ]
+}
