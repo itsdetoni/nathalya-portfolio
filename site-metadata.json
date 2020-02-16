@@ -4,14 +4,14 @@
   "palette": "green",
   "header": {
     "title": "Nathalya Darlen",
-    "tagline": "Especialista em Marketing de Conteúdo",
+    "tagline": "Analista de Mídias Sociais",
     "profile_img": "/images/nathalya-darlen-social-media-freelancer.jpg",
     "bg": "dark",
     "has_nav": true,
     "has_social": true
   },
   "footer": {
-    "content": "&copy; Alguns direitos reservados.",
+    "content": "&copy; Copyright 2020. Alguns direitos reservados.",
     "links": []
   }
 }
