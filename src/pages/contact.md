@@ -1,10 +1,9 @@
 ---
-title: Contact
+title: Contato
 menus:
   main:
-    title: Contact
+    title: Contato
     weight: 5
 template: contact
 ---
-
-To get in touch fill the form below.
+Preencha o formulário abaixo para entrar em contato.
