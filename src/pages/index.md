@@ -3,8 +3,9 @@ title: Home
 sections:
   - component: HeroBlock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Ajudo empresas criando estratégias de comunicação efetivas através do
+      marketing digital, transformando conteúdo em clientes e novas
+      oportunidades de negócio.
     section_id: hero
     type: heroblock
   - actions:
