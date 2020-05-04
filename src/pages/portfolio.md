@@ -1,7 +1,7 @@
 ---
 title: Portfólio
 subtitle: Abaixo alguns dos projetos que já trabalhei.
-img_path: /images/test.jpg
+img_path: /images/cliente1.png
 menus:
   main:
     title: Portfólio
@@ -9,12 +9,32 @@ menus:
 template: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+##Comunicação assertiva para novos sorrisos##
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+A odontologia é uma das áreas que mais cresce no país, por essa razão investir em comunicação passou a ser uma das prioridades para elevar a imagem dos consultórios. 
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+###Mas como chamar a atenção?###
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Nessa jornada pude observar que muitos seguidores dessa área julgam o conteúdo antes mesmo de abri-los em razão da grande quantidade que ela recebe durante o dia. 
 
-_Thank You for reading!_
+###A estratégia###
+
+Para este, foram criadas publicações interligadas, onde os conteúdos tinham como foco chamar atenção logo na imagem com assuntos que gerassem dúvidas nos consumidores, incentivando-os a buscar respostas dentro do consultório. 
+
+Essa estratégia foi realizada por todo o mês, auxiliando também a equipe de mídias pagas, possibilitando maior número de preenchimento dos formulários das campanhas pagas, agendamentos de avaliações e possíveis fechamentos. 
+
+Foram obtidos 60% a mais de lucro e visualização comparado ao mês anterior.
+
+![Cliente 2](/images/cliente2.png)
+
+##Utilizando a plataforma que gera visualização##
+
+Uma estratégia e conteúdos bem preparados para essa plataforma pode resultar em grandes visualizações. Poucas empresas sabem ou dão prioridade para o Google My Business, ela é uma plataforma gratuita, onde as empresas que tem presença digital podem expor seus produtos e serviços para um complemento na divulgação. 
+
+###A estratégia###
+
+Essa plataforma é utilizada para qualquer setor, nesse projeto mais uma vez foi utilizado a área da odontologia. Tive como foco conteúdos diversificados, com dúvidas e soluções que poderiam ser resolvidas no consultório e que era fácil de entrar em contato com os botões abaixo, incentivando assim possíveis agendamentos. 
+Foi possível observar de um mês para o outro um aumento significativo de visualização, as palavras chaves mais procuradas, cliques nas publicações entre outros benefícios que demonstraram o aumento relevante da imagem do consultório. 
+
+_OBS: Os clientes não podem ser citados em virtude de sigilo decorrente ao local que foi prestado o serviço._
+
